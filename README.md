@@ -19,3 +19,7 @@ The `ktls` binary does the same thing, but over a kernel-managed TLS connection 
 
 - [ ] Add example server implementations with `sendfile` for userspace/ktls
 - [ ] Add Actions to Cross-compile for different targets
+
+## Links
+
+* [Original KTLS paper](https://netdevconf.org/1.2/papers/ktls.pdf?ref=words.filippo.io)
